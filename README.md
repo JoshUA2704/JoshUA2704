@@ -1,4 +1,4 @@
-![my picture](https://www.foxsports.com/soccer/cristiano-ronaldo-player)
+![my picture](https://b.fssta.com/uploads/application/soccer/headshots/885.vresize.350.350.medium.19.png)
 # 👋 Hi, I'm AYODELE JOSHUA 
 
 **Frontend Web Developer 
